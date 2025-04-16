@@ -1,8 +1,9 @@
 ## 👋 Welcome !
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhiyog&show_icons=true&theme=radical" alt="Zhiyog's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyog&layout=compact" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhiyog&show_icons=true&theme=tokyonight&bg_color=write" alt="Zhiyog's GitHub stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyog&layout=compact" alt="Top Langs" height="180" />
 </p>
 
 ---
