@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Welcome !
 
-<!--
-**zhiyog/zhiyog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhiyog&show_icons=true&theme=radical" alt="Zhiyog's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiyog&layout=compact" alt="Top Langs" height="180"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Hi, I'm **zhiyog**, a passionate **front-end developer**!
+
+- 🚀 I’m driven by my love for technology, always learning and sharing along the way.
+- 🧠 Currently exploring **AI** and **Web3** to stay ahead in the tech frontier.
+- 📖 Stay tuned to my [blog](https://zhiyog.github.io) — let’s pursue **technical excellence** together!
+
+
+Thanks for visiting! 🙌
